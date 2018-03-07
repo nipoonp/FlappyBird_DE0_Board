@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<LOG_ROOT>
+	<PROJECT NAME="FlappyBird">
+		<CBX_INST_ENTRY INSTANCE_NAME="|Block_Mouse|ball:inst6|char_rom:Font|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_kt91.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Block_Mouse|ball:inst6|bird_green_rom:green_bird|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_2hs3.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Block_Mouse|ball:inst6|bird_red_rom:red_bird|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_cas3.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Block_Mouse|ball:inst6|green_rom:green_back|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_t5s3.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Block_Mouse|ball:inst6|pipe_blue_rom:blue_pipe|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_2es3.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Block_Mouse|ball:inst6|red_rom:red_back|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_7vr3.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Block_Mouse|ball:inst6|bird_rom:b|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_ftr3.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Block_Mouse|ball:inst6|powerup_blue_rom:green_powerup|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_aps3.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Block_Mouse|ball:inst6|powerup_green_rom:blue_powerup|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_jss3.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Block_Mouse|ball:inst6|bird_blue_rom:blue_bird|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_pds3.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Block_Mouse|ball:inst6|blue_rom:blue_back|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_k2s3.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Block_Mouse|ball:inst6|pipe_green_rom:green_pipe|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_bhs3.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Block_Mouse|ball:inst6|pipe_red_rom:red_pipe|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_las3.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Block_Mouse|ball:inst6|powerup_red_rom:red_powerup|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_tls3.tdf"/>
+	</PROJECT>
+</LOG_ROOT>

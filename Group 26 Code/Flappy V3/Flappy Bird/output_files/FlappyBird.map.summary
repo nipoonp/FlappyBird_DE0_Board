@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Sun May 29 23:16:47 2016
+Quartus II 64-Bit Version : 13.1.0 Build 162 10/23/2013 SJ Web Edition
+Revision Name : FlappyBird
+Top-level Entity Name : Block_Mouse
+Family : Cyclone III
+Total logic elements : 1,984
+    Total combinational functions : 1,898
+    Dedicated logic registers : 361
+Total registers : 361
+Total pins : 37
+Total virtual pins : 0
+Total memory bits : 409,856
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0

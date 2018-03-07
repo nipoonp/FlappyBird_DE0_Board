@@ -1,0 +1,76 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\Nipoon\Desktop\Random_Number_Generator
+Erandom
+Z1 w1462002801
+Z2 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z3 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z4 dC:\Users\Nipoon\Desktop\Random_Number_Generator
+Z5 8C:/Users/Nipoon/Desktop/Random_Number_Generator/random.vhd
+Z6 FC:/Users/Nipoon/Desktop/Random_Number_Generator/random.vhd
+l0
+L4
+VFI0g7Im=n5:MBfD>hfL;L1
+Z7 OV;C;10.1d;51
+32
+Z8 !s108 1462003173.070000
+Z9 !s90 -reportprogress|300|-work|work|C:/Users/Nipoon/Desktop/Random_Number_Generator/random.vhd|
+Z10 !s107 C:/Users/Nipoon/Desktop/Random_Number_Generator/random.vhd|
+Z11 o-work work -O0
+Z12 tExplicit 1
+!s100 8<fS[aE9cB3e78CO>gAS01
+!i10b 1
+Abehavioral
+R2
+R3
+Z13 DEx4 work 6 random 0 22 FI0g7Im=n5:MBfD>hfL;L1
+l13
+L12
+Vo`mkO?VOghhoSz<7hR@_L3
+!s100 RQg[h5BDAIh[UORCVPPIJ0
+R7
+32
+R8
+R9
+R10
+R11
+R12
+!i10b 1
+Etestbench
+Z14 w1462003169
+R2
+R3
+R4
+Z15 8C:/Users/Nipoon/Desktop/Random_Number_Generator/testbench.vhd
+Z16 FC:/Users/Nipoon/Desktop/Random_Number_Generator/testbench.vhd
+l0
+L5
+V1PdXgFS>ORH62UT=QFTi00
+!s100 0oiMAaH9T4Q2m6ZU6Th[h2
+R7
+32
+!i10b 1
+Z17 !s108 1462003173.399000
+Z18 !s90 -reportprogress|300|-work|work|C:/Users/Nipoon/Desktop/Random_Number_Generator/testbench.vhd|
+Z19 !s107 C:/Users/Nipoon/Desktop/Random_Number_Generator/testbench.vhd|
+R11
+R12
+Abehavior
+R13
+R2
+R3
+Z20 DEx4 work 9 testbench 0 22 1PdXgFS>ORH62UT=QFTi00
+l14
+L8
+VF_]e75@3lok^nT@6E31H43
+!s100 96b1U6fJIT840LX9a4kFW2
+R7
+32
+!i10b 1
+R17
+R18
+R19
+R11
+R12
